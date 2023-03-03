@@ -1,0 +1,11 @@
+.strategy {
+  display: flex;
+  gap: 20px;
+  padding: 10px;
+}
+
+.currensy {
+  display: flex;
+  gap: 20px;
+  padding: 10px;
+}
